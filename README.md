@@ -1,5 +1,5 @@
 # Ember.js and Node.js app
-Still under construction
+Still Under Construction
 
 Credit:
 "Instant Ember.js Application Development How-to" by Marc Bodmer 
